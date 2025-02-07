@@ -1,1 +1,3 @@
 "Hello, Master Initial Project"
+
+"Developer's changes applied"
